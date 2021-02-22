@@ -17,7 +17,7 @@
 
 
 <a href="#sauciucionut">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauciucionut&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sauciucionut&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="sauciucionut" align="right" />
 </a>
 
 - 🔭 I’m currently working on **a discord bot**
